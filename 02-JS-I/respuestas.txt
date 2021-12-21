@@ -1,0 +1,17 @@
+* Variables: sirve como una caja para almacenar valores.
+
+* Strings: Es texto siempre y cuando se use entre comillas.
+
+* Funciones (argumentos, `return`): 
+
+	argumentos: Es lo que se pone entre los paréntesis en la función.
+	
+	return: Es lo que devuelve una función
+
+* Declaraciones `if`: Sirve para preguntar si se cumple una condición
+
+* Valores booleanos (`true`, `false`):
+
+	true: Cuando es verdadero
+	
+	false: Cuando es falso
