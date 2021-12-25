@@ -1,0 +1,7 @@
+* for:  funciona para hacer bucles
+
+* &&: se lee "y" sirve para decir que se tienen que cumplir dos o más condiciónes 
+
+* ||: se lee "o" sirve para decir que se tiene que cimplir una u otra condición
+
+* !: se ultiliza para negar una condición
