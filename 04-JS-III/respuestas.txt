@@ -1,0 +1,1 @@
+array: manera ordenada de almacenar una lista de elementos
