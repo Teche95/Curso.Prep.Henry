@@ -1,0 +1,12 @@
+  
+    * Objetos: contenedor de datos.
+
+	* Propiedades: las Propiedades son los nombres (key).
+
+	* Métodos: son funciones guardadas en un objeto.
+
+	* Bucle `for…in` sirve para iterar en cada par clave-valor.
+
+	* Notación de puntos: sirve para traer el nombre del objeto y el nombre de la clave.
+
+    * notación de corchetes: sirve para llamar a la clave de la Propiedad.
