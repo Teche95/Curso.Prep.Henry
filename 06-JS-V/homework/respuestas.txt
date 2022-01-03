@@ -1,0 +1,2 @@
+Prototype: Un prototipo es otro objeto que se utiliza como una fuente de propiedades alternativa.
+ _Constructors_ (de Clases): Es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
